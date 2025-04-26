@@ -61,8 +61,7 @@ Este projeto foi expandido e transformado em uma aplicação mais robusta utiliz
 │       ├── media-queries.css       # Estilos responsivos
 │       ├── reset.css               # Reset de estilos
 │       └── vars.css                # Variáveis de estilo
-├──
-├── display-PaginaSpotify.gif       # Demonstração do projeto
+├── results                         # Demonstração do projeto
 ├── LICENSE                         # Licença do projeto
 └── README.md                       # Documentação do projeto
 ```
