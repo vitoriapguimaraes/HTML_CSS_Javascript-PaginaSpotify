@@ -2,9 +2,11 @@
 
 > Um clone da interface do Spotify, desenvolvido com HTML, CSS e JavaScript, para fins educacionais e de prática de desenvolvimento front-end.
 
-Este projeto foi expandido e transformado em uma aplicação mais robusta utilizando React. Você pode acessá-lo em [link].
+Este projeto foi expandido e transformado em uma aplicação mais robusta utilizando React. Você pode acessá-lo no botão abaixo.
 
-![Tela do sistema](display-PaginaSpotify.gif)
+<a href="https://github.com/vitoriapguimaraes/HTML_CSS_Javascript_React-CloneSpotify"><img src="https://img.shields.io/badge/-Projeto%20Clone%20Spotify-000000?style=for-the-badge" alt="HTML_CSS_Javascript_React-CloneSpotify">
+
+![Tela do sistema](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript-PaginaSpotify/blob/main/results/display-PaginaSpotify.gif)
 
 ## Funcionalidades Principais:
 
@@ -21,18 +23,8 @@ Este projeto foi expandido e transformado em uma aplicação mais robusta utiliz
 
 ## Como Executar:
 
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/usuario/HTML_CSS_Javascript-PaginaSpotify.git
-   ```
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd HTML_CSS_Javascript-PaginaSpotify
-   ```
-
+1. Clone o repositório.
+2. Navegue até o diretório do projeto.
 3. Abra o arquivo `index.html` no navegador.
 
 ## Como Usar:
@@ -70,11 +62,7 @@ Este projeto foi expandido e transformado em uma aplicação mais robusta utiliz
 
 ✅ Concluído
 
-> Melhorias que podem ser incluídas:
->
-> - Implementar reprodução de músicas.
-> - Adicionar mais funcionalidades interativas, como criação de playlists.
-> - Melhorar a acessibilidade da interface.
+> Melhorias que podem ser incluídas estão sendo trabalhadas em [Projeto Clone Spotify](https://github.com/vitoriapguimaraes/HTML_CSS_Javascript_React-CloneSpotify)
 
 ## Mais Sobre Mim:
 
